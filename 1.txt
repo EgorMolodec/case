@@ -1,2 +1,1 @@
-Hello, world!
-My name is Egor. I'm 20 years old.
+Hello! My name is Egor. I'm 20 years old.
